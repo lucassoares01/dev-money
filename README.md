@@ -1,9 +1,9 @@
 <h1 align="center">
-    Finances App
+    Dev Money
 </h1>
 
 <h4 align="center"> 
-	Concluído 🚀
+	⚠️Em Construção⚠️
 </h4>
 
 
@@ -13,7 +13,7 @@ O layout da aplicação:
 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img src="./github/reactnotes.gif">
+  <img src="./github/devfiances.gif">
 </p>
 
 ---
@@ -21,16 +21,16 @@ O layout da aplicação:
 
 ## 💻 Sobre o projeto
 
-DevNotes - é uma webapp de notas em que o usuario pode: criar, ver, deletar e editar (CRUD) as notas.
+💸Dev Money - é uma web app de controle de gastos.
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Usuario pode criar as notas.
-- [x] Usuario pode deletar as notas.
-- [x] Usuario pode editar as notas.
-- [x] usuario pode filtrar as notas.
+- [x] Usuario pode criar as Entradas.
+- [x] Usuario pode criar as Saídas.
+- [x] Usuario pode deletar as Transações.
+- [ ] Dados são salvos no Local Storage
 
 ---
 
@@ -46,12 +46,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o projeto
 
--   Você pode testar o projeto aqui: **[DevNotes](https://devnotesweb.vercel.app/)**
+-   Você pode testar o projeto aqui: **Em Breve**
 
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/lucassoares01/dev-notes
+$ git clone https://github.com/lucassoares01/dev-money
 
 ```
 
