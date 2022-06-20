@@ -13,7 +13,7 @@ O layout da aplicação:
 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img src="./github/devfiances.gif">
+  <img src="./github/devmoney.gif">
 </p>
 
 ---
