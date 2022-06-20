@@ -46,7 +46,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o projeto
 
--   Você pode testar o projeto aqui: **Em Breve**
+-   Você pode testar o projeto aqui: **[DevMoney](https://devmoney.vercel.app/)**
 
 ```bash
 
